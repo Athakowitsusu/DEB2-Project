@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deb2-17aug2023",
+  "private_key_id": "17216c60e1f127992cc70c9040004a6322179c6b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbCn116OzKA8b5\nZG8zexjoleBKAbC05ajkqnx/cOt7Y52wBUpTO6DHV7FXepdayuHlPY8kHSN/V2HV\nKXLjE+6LAFqVdgq6Yly3CIbAD8z3d0hLdZvuTW5ndYf/zCYB+9fnKb4bHGqI6qEe\nLgbolQKakrfzntWK0XSwFoOXRaKGhMOVysdQgGxeaz1bgCCqz8mr69BNtxo1I3M7\n5tY6pi0jhfql0bnOBC/XEhLu0DKYkIv6ypViORmidOmjO+QAdwCezBXdXBgsR09y\nhiUFk6Fd/f151DBvIZTC+zsXHJMj88lOqOxpXGuvSR8KE1KO2SLP41khNGyAisPT\nSkmohen1AgMBAAECggEAOEMlxTCaITMetSjvu7BbmSeuZVzYqcS/tf9yP3MUWUoM\nkrBQyQSV81EM35BytXVzZVOiCrpyQ8dLjuXENchpY9LkjGFyQjHosFktQSxatqD4\nQL30sJUzz+KUUEzerBCeyFnbDY6R0I7ImiGcyzEr6Tj9/S/yETayUCZTaYVRFdwu\nOyVfV6qiSJNLRDBYqAUHybCwh99a0pOAOzcFUd5XEE9hiAXiDV7ibr+FAKj0kPVZ\nsmePuru41sPjolIg+S1l5UCC26Ux6s64b6asnWhUJzVK4J7ZIVIl9HnwKUA3tLWK\nh9c4J9xpwzwT/YIKkVEzYrmQ+4fMB0p7TQvqLyhnfwKBgQDQRT4Mg+eIcxhjrAri\n85i8tKmNg5zdNqaJXeAm8GNqgkOmsRCuEtbKVRs7EH328X36towc+WpV+iGSXaTY\nFQTxGsQqEP+JGFG/YupOZULQKYxi2KzuJFoBqUwjZlKiCnVKnTIBiTNo2GPddjjK\nLklKWfBr2rPHboyAtrrniXbVvwKBgQC+kmSxOrnnmo2x018fTYZJwoDu5Hne7+Yh\nZca9USoQAGIRZYVc4T7j9tp3T70la4laszRFElmZsuCd8SnXJRQcF5Ub17peTiYr\n27aYad7ygOnRYJOOF4c0/ik3a+TN6uNFtW8PRMGm2MqwCf2XSYNIEgDx7KwPx8ja\nwI5WMDt1SwKBgB/zX2+AFNcEASvZStpCUJ4ygQhqtnfhWG8ebbLLkhTW4xYBd/Oc\nhEMKB2FqSEjIB3Gc66XORZfnBZt0rkNQBjAO0SU68ljP2EqqHBPmyPcySI0pfG4U\nOZKjrECKBAdD33aQ4wkFSVO+TqO87T1nGGtFnPKO3KGtvfRJFCdNGWP1AoGAKyTP\nYQRPlCx8Sbb1wQt3DHnZYLwfDya2rfbxsGiQokDD8vZN5AImj8uSGBLYWoFm/j61\n5bFK0a4ahgdUFp4RWG7KVhxX2APPRnyecRD+5V3kEX/QyAlxlcC4qhBmI2w6+cwi\nkY1aXiCUepg4bii5bPaOeja/mW78fPG9B6wxudMCgYBDPGP3N50oITtopHV9xNT/\nXK+xxx/4/KckBlQAC2uLxgZRDWqzyRzGFyjsvLFZtAGPU2e2MmUAifN+4/KZ8Jel\nesV8DB9LvkrFyq6nDQpzeRSzTdaG7XI59MdP66f6qmGnzV4CxFPNX12DoNMMVnA2\nlR8sHCJGHo5Vh5z8BDdF6w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb2-loading-files-to-gcs@deb2-17aug2023.iam.gserviceaccount.com",
+  "client_id": "114742220663270804419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb2-loading-files-to-gcs%40deb2-17aug2023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

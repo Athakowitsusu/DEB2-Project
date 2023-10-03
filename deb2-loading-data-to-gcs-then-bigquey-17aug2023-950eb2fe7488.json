@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deb2-17aug2023",
+  "private_key_id": "950eb2fe7488752908d4e84a9ad2c7a3ae37c23a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLuTcEJ2lJEMg6\nxSQRBraBbaE6YYjh0tKB+gCCbKaGcC9iQQiHV+OCO491Y/9icG45JjdTr2uU/mBP\n1WcCXZ9gJsxk7zlvucfac1vXoox8B/oPY3jiyXeNelkZ09BLbFBVQ6CYjorQLFx0\nYhF67VhURTSeNWYOyU/Z7AHY1/+BQpO33IXFxANizQ6NGp/kg1WmbONJnbFyolqX\ns/HTYE8AxdnTrE//e3JTSh7bdwnKvs+TEc5i1sh5OY53hXYHhXauWRpRkdEBkvYc\nR7MlM15ClXmLJogk0qaKAxwmwh1xG+YcWlLgFoKQieVF/LmkggExlPo47j+8AgQU\nfgoEKLZFAgMBAAECggEAK5NIY0kSyiAe1ANK/aFT9EdAzz4Bi1wOzuJsrXkT/XmN\niRSkAF8aOMcInnFvNN0blnnIJ8xD1LC8ZRceW3EvH9/spEJPJMi2KNG3+V25cuY5\n5ITAXLH/MnHTESUvTpKydCps9XS32GNEu1gmqQaPeCb9ZEHDvLHutIw4sOsyqbDz\n1D5lQba9frMu2p/bwlqqGhHe/JWHFZWh6VFFxgqDLsyUekHfGkGrbd/ee0pUl9Q8\nkAxGoGYHhja9OpcRD+ZOj5pGrCplKG5zhjsg4uMgnDJAFKrznpfkXcbXkYyT1XSz\nlfUPqynQ+waWfeogE467fYCASJvuu27jmxbQjBoIWQKBgQD54Ke2H5UgU3lUP0nC\nuhvciV73M9n1Rt+P3QCFSW9RIGgGt41FU85IIB0TfjilvcltFmTgdUt0AJJHhKGl\n9pi+Uv/PZLd4CSoQ7hW5FlchGPiMYMEfmvS/ASczkt0V1Qjut6rULkUTle0a8RPm\nooS2bwNZA+RrlQ6dfqJqSSuNIwKBgQDQtw+HXX/gS1MKu/9Hjrqq4ggFwN9RK6Nj\n2+qhCXrGs1YO4pa+em1mG710pKJcRJtO55qU8SXwf9gMKBnECCubW6mIKy5BsG1a\nHo0DCvOyYcWcEISYUiOvZw1D2GAXiKIfjuVgFT9CjME2zNg0rhP0YBlbyliyc59g\nHvaMkyqpdwKBgQCKPlJLHloA0m3TwFfslc6ISq/xkAxL+PQCwcBh/WjKt2UWIkLU\nUjNUEABGIpTwjXl9EuColfwyp4ZGbwiHq1CCK6U/dndSv684QqBeEBAQTaJk97qg\n47f4XIj1rZEHXR9eAttOHHM3DMFrIGlkNhG6ZNyzSMX9BzBYzhDJQMYJhQKBgG/t\nC5XTDUVx/3ltMcvk/bOv/Q9gzCFSXo+pmpx7Yez2tTrMRnylWM9+Js5Lj4odfJAG\n4b3nyCm91VVHl/GpVAE/WZ3dUjQF8c53PbWZBPDvP7KepQyuV9azU8jDW1yjeBWm\nYtlw63i71M2XcoZlp+vQMSkpTQF9wcUhNaRTM3inAoGAQ7uY7+Cnd+ZlNS+X6801\n1Em8E/qqBnXedvXAfd6+ajsFed+LxJ/cp0r/lllYVD4fD0IeHCowD6gmIOneQt5w\nSNfSTkonde5/A9IVGVJOikDQDbsNgUC4QiU2IDdypBuRg8IRsYHzAszDWHuWfpOi\nkOWJ8b2A8E8FlQdVGk4T484=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb2-loading-data-to-gcs-then@deb2-17aug2023.iam.gserviceaccount.com",
+  "client_id": "107222809193940324963",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb2-loading-data-to-gcs-then%40deb2-17aug2023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
